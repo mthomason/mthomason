@@ -4,8 +4,6 @@ I enjoy building software for data and decision-making. Most of my work is in bu
 
 Most of my work is in Objective-C (iOS) and C#, and Python (FastAPI), but I can program most anything.  Most of my work is private, but here are a few public projects that I'd like to share.
 
----
-
 ## MAD Designer
 [Website](https://mad.everydayapps.com/) • [App Store](https://apps.apple.com/us/app/mad-designer/id666001433) • [.mad File Type](https://mad.everydayapps.com/mad-file-type.html)
 
@@ -19,8 +17,6 @@ It allows users to:
 
 Each `.mad` file is a portable document containing connection details, queries, layout, and formatting, so reports can move easily between macOS and iOS.
 
----
-
 ## mbot
 [GitHub](https://github.com/mthomason/mbot) • [Web Front](https://mthomason.github.io/mbot/)
 
@@ -29,8 +25,6 @@ It provides a production-ready template with Google authentication, OpenAI API i
 
 This project is meant to save developers the setup time required to get a chatbot running with a modern stack.
 
----
-
 ## Objective Morality
 [GitHub](https://github.com/mthomason/ObjectiveMorality) • [Web Front](https://mthomason.github.io/ObjectiveMorality/)
 
@@ -38,8 +32,6 @@ Objective Morality is a Python framework for exploring ethical dilemmas through 
 It’s designed for teaching and research, comparing moral evaluations across different systems including Kantian Deontology, Utilitarianism, Aristotelian Virtue Ethics, Contractualism, Rossian Pluralism, Nietzschean Ethics, Ethics of Care, and Rawlsian Justice.  
 
 Scenarios can be defined directly in Python or JSON, and the system outputs side-by-side evaluations and consistency checks for each moral engine.
-
----
 
 ## Contact
 mthomason [at] gmail [dot] com
