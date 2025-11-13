@@ -7,13 +7,13 @@ Most of my work is in Objective-C (iOS) and C#, and Python (FastAPI), but I can 
 ## MAD Designer
 [Website](https://mad.everydayapps.com/) • [App Store](https://apps.apple.com/us/app/mad-designer/id666001433) • [.mad File Type](https://mad.everydayapps.com/mad-file-type.html)
 
-MAD Designer is a mobile-first business intelligence tool for iOS and macOS.  
+MAD Designer is a mobile-first business intelligence tool for iOS and macOS.
 It was built to bring full report and query design capabilities to mobile devices, without tracking users or relying on server infrastructure.
 
 It allows users to:
-- Connect securely to MySQL and Microsoft SQL Server databases  
-- Build complex ad hoc queries  
-- Design and export interactive reports  
+- Connect securely to MySQL and Microsoft SQL Server databases
+- Build complex ad hoc queries
+- Design and export interactive reports
 
 Each `.mad` file is a portable document containing connection details, queries, layout, and formatting, so reports can move easily between macOS and iOS.
 
@@ -21,6 +21,7 @@ Each `.mad` file is a portable document containing connection details, queries, 
 [GitHub](https://github.com/mthomason/mbot) • [Web Front](https://mthomason.github.io/mbot/)
 
 mbot is a starter project for building AI chatbots using SvelteKit and FastAPI.  
+
 It provides a production-ready template with Google authentication, OpenAI API integration, and a clean separation between frontend and backend.
 
 This project is meant to save developers the setup time required to get a chatbot running with a modern stack.
@@ -28,8 +29,9 @@ This project is meant to save developers the setup time required to get a chatbo
 ## Objective Morality
 [GitHub](https://github.com/mthomason/ObjectiveMorality) • [Web Front](https://mthomason.github.io/ObjectiveMorality/)
 
-Objective Morality is a Python framework for exploring ethical dilemmas through multiple philosophical perspectives.  
-It’s designed for teaching and research, comparing moral evaluations across different systems including Kantian Deontology, Utilitarianism, Aristotelian Virtue Ethics, Contractualism, Rossian Pluralism, Nietzschean Ethics, Ethics of Care, and Rawlsian Justice.  
+Objective Morality is a Python framework for exploring ethical dilemmas through multiple philosophical perspectives.
+
+It’s designed for teaching and research, comparing moral evaluations across different systems including Kantian Deontology, Utilitarianism, Aristotelian Virtue Ethics, Contractualism, Rossian Pluralism, Nietzschean Ethics, Ethics of Care, and Rawlsian Justice.
 
 Scenarios can be defined directly in Python or JSON, and the system outputs side-by-side evaluations and consistency checks for each moral engine.
 
