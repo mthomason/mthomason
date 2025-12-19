@@ -4,6 +4,28 @@ I enjoy building software for data and decision-making. Most of my work is in bu
 
 Most of my work is in Objective-C (iOS) and C#, and Python (FastAPI), but I can program most anything.  Most of my work is private, but here are a few public projects that I'd like to share.
 
+## CopyStar
+[Website](https://copystar.app/) • [App](https://realestate.copystar.app/)
+
+CopyStar is a real estate–focused copywriting application designed to generate professional marketing drafts from structured listing data.
+
+Unlike generic AI writing tools, CopyStar uses configurable writing personas (“CopyStars”) to control tone, reading level, persuasion strategy, and stylistic constraints. This allows agents to produce consistent, MLS-ready copy across multiple formats without relying on ad-hoc prompting.
+
+From a single listing, CopyStar can generate drafts for:
+- MLS-ready long-form listing descriptions  
+- Property feature summaries  
+- Agent-to-agent email copy  
+- Open house scripts  
+- Brochure and flyer text  
+- Website copy for listings  
+- SEO-oriented short descriptions  
+- Social media caption ideas  
+- Targeted buyer-focused messaging  
+
+The system is built with a SvelteKit frontend and a FastAPI backend, and emphasizes structured content generation, persona-driven prompts, and professional guardrails. All output is generated as editable drafts intended for review before publishing.
+
+CopyStar reflects my ongoing work in applied AI systems where usability, consistency, and domain constraints matter more than novelty.
+
 ## MAD Designer
 [Website](https://mad.everydayapps.com/) • [App Store](https://apps.apple.com/us/app/mad-designer/id666001433) • [.mad File Type](https://mad.everydayapps.com/mad-file-type.html)
 
