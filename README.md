@@ -27,7 +27,7 @@ It allows users to:
 Each `.mad` file is a portable document containing connection details, queries, layout, and formatting, so reports can move easily between macOS and iOS.
 
 ## Objective Morality
-[GitHub](https://github.com/mthomason/ObjectiveMorality) • [Web Front](https://mthomason.github.io/ObjectiveMorality/)
+[GitHub](https://github.com/mthomason/ObjectiveMorality) • [Website](https://mthomason.github.io/ObjectiveMorality/)
 
 Objective Morality is a Python framework for exploring ethical dilemmas through multiple philosophical perspectives.
 
@@ -36,7 +36,7 @@ It’s designed for teaching and research, comparing moral evaluations across di
 Scenarios can be defined directly in Python or JSON, and the system outputs side-by-side evaluations and consistency checks for each moral engine.
 
 ## mbot
-[GitHub](https://github.com/mthomason/mbot) • [Web Front](https://mthomason.github.io/mbot/)
+[GitHub](https://github.com/mthomason/mbot) • [Website](https://mthomason.github.io/mbot/)
 
 mbot is a starter project for building AI chatbots using SvelteKit and FastAPI.  
 
