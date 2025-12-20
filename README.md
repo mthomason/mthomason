@@ -26,15 +26,6 @@ It allows users to:
 
 Each `.mad` file is a portable document containing connection details, queries, layout, and formatting, so reports can move easily between macOS and iOS.
 
-## mbot
-[GitHub](https://github.com/mthomason/mbot) • [Web Front](https://mthomason.github.io/mbot/)
-
-mbot is a starter project for building AI chatbots using SvelteKit and FastAPI.  
-
-It provides a production-ready template with Google authentication, OpenAI API integration, and a clean separation between frontend and backend.
-
-This project is meant to save developers the setup time required to get a chatbot running with a modern stack.
-
 ## Objective Morality
 [GitHub](https://github.com/mthomason/ObjectiveMorality) • [Web Front](https://mthomason.github.io/ObjectiveMorality/)
 
@@ -43,6 +34,15 @@ Objective Morality is a Python framework for exploring ethical dilemmas through 
 It’s designed for teaching and research, comparing moral evaluations across different systems including Kantian Deontology, Utilitarianism, Aristotelian Virtue Ethics, Contractualism, Rossian Pluralism, Nietzschean Ethics, Ethics of Care, and Rawlsian Justice.
 
 Scenarios can be defined directly in Python or JSON, and the system outputs side-by-side evaluations and consistency checks for each moral engine.
+
+## mbot
+[GitHub](https://github.com/mthomason/mbot) • [Web Front](https://mthomason.github.io/mbot/)
+
+mbot is a starter project for building AI chatbots using SvelteKit and FastAPI.  
+
+It provides a production-ready template with Google authentication, OpenAI API integration, and a clean separation between frontend and backend.
+
+This project is meant to save developers the setup time required to get a chatbot running with a modern stack.
 
 ## Contact
 mthomason [at] gmail [dot] com
