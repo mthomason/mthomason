@@ -4,27 +4,14 @@ I enjoy building software for data and decision-making. Most of my work is in bu
 
 Most of my work is in Objective-C (iOS) and C#, and Python (FastAPI), but I can program most anything.  Most of my work is private, but here are a few public projects that I'd like to share.
 
-## CopyStar
-[Website](https://copystar.app/) • [App](https://realestate.copystar.app/)
+## MAD (Mobile Analytics Document)
+[Repository](https://github.com/mthomason/MAD) • [Website](https://mad.everydayapps.com/) • [.mad File Type](https://mad.everydayapps.com/mad-file-type.html)
 
-CopyStar is a real estate–focused copywriting application that generates professional marketing drafts from structured listing data.
+MAD is a mobile-first business intelligence platform for iOS and macOS, built to bring full report and query design to mobile devices without tracking users or relying on server infrastructure.
 
-The system uses configurable writing personas (“CopyStars”) to control tone, reading level, persuasion strategy, and stylistic constraints, allowing agents to produce consistent, MLS-appropriate copy without ad-hoc prompting.
+The repository is open source (MIT) and holds the MAD Designer and MAD Viewer apps, the embeddable headless engine, the `mad` command-line tool, and the open `.mad` document format — a portable file that bundles a report's query, layout, and formatting so reports move easily between devices.
 
-Built with a SvelteKit frontend and a FastAPI backend, CopyStar emphasizes structured generation, persona-driven prompts, and practical guardrails. All output is produced as editable drafts intended for review before publishing.
-
-## MAD Designer
-[Website](https://mad.everydayapps.com/) • [App Store](https://apps.apple.com/us/app/mad-designer/id666001433) • [.mad File Type](https://mad.everydayapps.com/mad-file-type.html)
-
-MAD Designer is a mobile-first business intelligence tool for iOS and macOS.
-It was built to bring full report and query design capabilities to mobile devices, without tracking users or relying on server infrastructure.
-
-It allows users to:
-- Connect securely to MySQL and Microsoft SQL Server databases
-- Build complex ad hoc queries
-- Design and export interactive reports
-
-Each `.mad` file is a portable document containing connection details, queries, layout, and formatting, so reports can move easily between macOS and iOS.
+The MAD Designer app is currently between App Store releases and returns in early 2027. [Sponsorship](https://github.com/sponsors/mthomason) funds the relaunch.
 
 ## Objective Morality
 [GitHub](https://github.com/mthomason/ObjectiveMorality) • [Website](https://mthomason.github.io/ObjectiveMorality/)
